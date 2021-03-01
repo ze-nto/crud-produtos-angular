@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.m10{
+    margin: 10px;
+    margin-left: 5px;
+}
