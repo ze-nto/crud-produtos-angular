@@ -12,7 +12,7 @@ It's an application for CRUD features on a mocked database. It uses a Nodemon se
 ## Requirements
 - The app must have components for create, read, apdate and delete products from an database;
 - The app must be created with Angular framework;
-- The app must give feedback for the user's action;
+- The app must give feedback for the user's action on database features;
 - The style must be made with Material.
 
 ## My own modifications
