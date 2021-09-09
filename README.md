@@ -15,8 +15,8 @@ It's an application for CRUD features on a mocked database. It uses a Nodemon se
 - The app must give feedback for the user's action on database features;
 - The style must be made with Material.
 
-## My own modifications
-- I add on the original project a login feature;
+## Project amendments
+- I add on the original project the feature of login;
 
 ## Screenshots
 
